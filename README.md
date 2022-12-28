@@ -21,6 +21,7 @@ Pages
 * Meditation space
 * Gratitude journal page
 * Exercise tracker page
+* Semi-intelligent chatbot - trainable. Makes use of Tensorflow. Spits out links in response to questions. Spits out brief answers to very simple questions.
 
 Modals
 
@@ -36,6 +37,8 @@ Technology stack
 * Jest
 * Postgres/MongoDB
 * Tailwind?
+* ChartJS
+* Tensorflow?
 and more TBD
 
 
@@ -51,4 +54,15 @@ Concepts
 * Data persistence 
 * File uploads
 * Animation
+* Machine learning
+
+Components
+
+Entry - for gratitude journal
+BreathBubble - configure to reusable for different types of breathwork e.g. box breathing
+Home
+About
+SignUp
+Navigation
+Logout
 
