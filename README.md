@@ -41,14 +41,14 @@ and more TBD
 
 Concepts
 
-Content projection
-Routing w route guards
-Design patterns e.g. singletons
-RxJS
-Reactive forms (or template-driven forms)
-Resolvers
-Authentication
-Data persistence 
-File uploads
-Animation
+* Content projection
+* Routing w route guards
+* Design patterns e.g. singletons
+* RxJS
+* Reactive forms (or template-driven forms)
+* Resolvers
+* Authentication
+* Data persistence 
+* File uploads
+* Animation
 
