@@ -58,11 +58,11 @@ Concepts
 
 Components
 
-Entry - for gratitude journal
-BreathBubble - configure to reusable for different types of breathwork e.g. box breathing
-Home
-About
-SignUp
-Navigation
-Logout
+* Entry - for gratitude journal
+* BreathBubble - configure to reusable for different types of breathwork e.g. box breathing
+* Home
+* About
+* SignUp
+* Navigation
+* Logout
 
