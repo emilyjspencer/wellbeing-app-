@@ -11,7 +11,8 @@ Proposed features:
 * meditation
 * gratitude journal
 * exercise tracker
-* affirmations 
+* affirmations??? 
+* * Semi-intelligent chatbot - trainable. Makes use of Tensorflow. Spits out links in response to questions. Spits out brief answers to very simple questions.
 
 Pages
 
@@ -21,7 +22,7 @@ Pages
 * Meditation space
 * Gratitude journal page
 * Exercise tracker page
-* Semi-intelligent chatbot - trainable. Makes use of Tensorflow. Spits out links in response to questions. Spits out brief answers to very simple questions.
+
 
 Modals
 
@@ -65,4 +66,6 @@ Components
 * SignUp
 * Navigation
 * Logout
+
+Potentially button components
 
